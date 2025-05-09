@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/PAARTH2608/github-templates/master/profile-summary-card-output/great_gatsby/4-productive-time.svg)
-```
-
-    
